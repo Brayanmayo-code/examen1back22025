@@ -1,0 +1,9 @@
+En esta carpeta los cambios que hice fueron:
+
+Estaba mal escrito la anotacion @Entity estaba de esta manera @Entit
+
+Falbataba el @id en la linea 10 arriba de la linea id
+
+faltaba el constructor vacio y el constructor lleno
+
+faltaban los getters y setters para cursos y usuarios solo habia para id y especialidad

@@ -15,5 +15,5 @@ Faltaba private a la linea Docente docente y el ;
 Y faltaba el metodo constructor
 
 
-Docente.java
+
 
